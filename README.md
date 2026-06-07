@@ -76,6 +76,3 @@ npm run build
 
 The dashboard should be checked at desktop, tablet, and mobile widths. Hover and progress animations use transform/opacity to avoid layout shifts.
 
-## Deploy
-
-Deploy the repository on Vercel and add the same Supabase environment variables in the Vercel project settings.
