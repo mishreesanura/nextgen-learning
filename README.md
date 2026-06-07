@@ -2,6 +2,9 @@
 
 A dark-mode student dashboard built for the Frontend Intern Challenge. It uses Next.js App Router, Server Components, Supabase, Tailwind CSS, Framer Motion, and Lucide React.
 
+![Next-Gen Learning Dashboard Preview](https://res.cloudinary.com/dptgeuamd/image/upload/v1780850961/ab0132ec-e8b6-448f-a77a-99045ef8165c.png)
+
+
 ## Architecture
 
 - `app/page.tsx` is a Server Component route that fetches courses before rendering the dashboard.
